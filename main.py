@@ -1,4 +1,4 @@
 def login():
-    print("Login with username")
+    print("Login with email, password and username")
 
 login()
